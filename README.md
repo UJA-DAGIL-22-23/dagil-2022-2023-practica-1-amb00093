@@ -21,3 +21,22 @@ Profesor del departamento de Informática de la Universidad de Jaén.
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
 * **Trello**: https://trello.com/vrivas_ujaen_es
+
+
+
+**URL del tablero Trello: https://trello.com/b/agaQXyet/amb00093
+<br></br>
+Imagen:**
+<br></br>
+<img src='Tablero-inicial.png' width='800px'>
+
+**URL GithHub:** https://github.com/amb00093
+<br></br>
+**Captura perfil:** 
+<br></br>
+<img src='perfil-github.png' width='800px'>
+<br></br>
+**Imagen tablero final Trello:** 
+<br></br>
+<img src='tablero-final.png' width='800px'>
+
