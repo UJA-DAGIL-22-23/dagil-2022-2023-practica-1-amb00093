@@ -4,6 +4,9 @@ Este es un repositorio básico para comprobar cómo funciona GitHub y, especialm
 Tus tareas consisten en:
 1) Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.
 ### Álvaro Martín Bacas
+<img src='alvaro-martin.jpg' width='200px'>
+
+Estudiante del Grado en Informática en la universidad de Jaén.
 * **Correo**: amb00093@red.ujaen.es
 * **GitHub**: https://github.com/amb00093
 * **Trello**: https://trello.com/u/amb00093/
